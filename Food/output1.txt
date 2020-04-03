@@ -1,0 +1,3 @@
+Food [id=5, name=we, price=5.0, type=fg]
+Food [id=4, name=sd, price=4.0, type=fg]
+Food [id=5, name=zx, price=5.0, type=fg]
